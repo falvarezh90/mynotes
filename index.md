@@ -1,4 +1,4 @@
-# Index
+# General Index
 
 1. [Git](git/index.md)
 2. [Laravel](laravel/index.md)
